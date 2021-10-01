@@ -1,0 +1,4 @@
+name: fashion-claus
+recipe: wordpress
+config:
+  webroot: wordpress
